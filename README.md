@@ -5,3 +5,5 @@
 #### [Error](3.md)
 
 #### [File System](4.md)
+
+#### [Crypto](5.md)
