@@ -23,3 +23,5 @@
 #### [Two Coverage Instrumentation Engines — Istanbul vs V8](12.md)
 
 #### [HTTP, HTTPS & WebSockets](13.md)
+
+#### [HTTP Module](14.md)
