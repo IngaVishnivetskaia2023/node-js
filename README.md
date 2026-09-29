@@ -38,5 +38,7 @@
 
 #### [Docker vs Podman](20.md)
 
-#### [Wide Column DB](21.md)
+#### [Wide Column and Columnar DB](21.md)
+
+#### [Key Value DB](22.md)
 
